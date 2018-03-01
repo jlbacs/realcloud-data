@@ -1,0 +1,16 @@
+C:\Projects\PropertyOwner\PropertyOwnerTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\PropertyOwner\PropertyOwnerTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\PropertyOwner\PropertyOwnerTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\PropertyOwner\PropertyOwnerTest\bin\Debug\netcoreapp2.0\PropertyOwnerTest.deps.json
+C:\Projects\PropertyOwner\PropertyOwnerTest\bin\Debug\netcoreapp2.0\PropertyOwnerTest.runtimeconfig.json
+C:\Projects\PropertyOwner\PropertyOwnerTest\bin\Debug\netcoreapp2.0\PropertyOwnerTest.runtimeconfig.dev.json
+C:\Projects\PropertyOwner\PropertyOwnerTest\bin\Debug\netcoreapp2.0\PropertyOwnerTest.dll
+C:\Projects\PropertyOwner\PropertyOwnerTest\bin\Debug\netcoreapp2.0\PropertyOwnerTest.pdb
+C:\Projects\PropertyOwner\PropertyOwnerTest\obj\Debug\netcoreapp2.0\PropertyOwnerTest.csprojResolveAssemblyReference.cache
+C:\Projects\PropertyOwner\PropertyOwnerTest\obj\Debug\netcoreapp2.0\PropertyOwnerTest.csproj.CoreCompileInputs.cache
+C:\Projects\PropertyOwner\PropertyOwnerTest\obj\Debug\netcoreapp2.0\PropertyOwnerTest.AssemblyInfoInputs.cache
+C:\Projects\PropertyOwner\PropertyOwnerTest\obj\Debug\netcoreapp2.0\PropertyOwnerTest.AssemblyInfo.cs
+C:\Projects\PropertyOwner\PropertyOwnerTest\obj\Debug\netcoreapp2.0\PropertyOwnerTest.dll
+C:\Projects\PropertyOwner\PropertyOwnerTest\obj\Debug\netcoreapp2.0\PropertyOwnerTest.pdb
+C:\Projects\PropertyOwner\PropertyOwnerTest\bin\Debug\netcoreapp2.0\RealCloud.Data.dll
+C:\Projects\PropertyOwner\PropertyOwnerTest\bin\Debug\netcoreapp2.0\RealCloud.Data.pdb
