@@ -11,7 +11,7 @@
           "MSTest.TestAdapter": "1.2.0",
           "MSTest.TestFramework": "1.2.0",
           "Microsoft.NET.Test.Sdk": "15.5.0",
-          "RealCloud.Data": "1.0.0"
+          "RealCloud.Database": "1.0.0"
         },
         "runtime": {
           "PropertyOwnerTest.dll": {}
@@ -1214,14 +1214,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "RealCloud.Data/1.0.0": {
+      "RealCloud.Database/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.1",
           "Microsoft.EntityFrameworkCore": "2.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.1"
         },
         "runtime": {
-          "RealCloud.Data.dll": {}
+          "RealCloud.Database.dll": {}
         }
       }
     }
@@ -1925,7 +1925,7 @@
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
     },
-    "RealCloud.Data/1.0.0": {
+    "RealCloud.Database/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

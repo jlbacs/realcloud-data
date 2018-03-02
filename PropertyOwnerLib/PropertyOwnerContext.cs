@@ -1,7 +1,8 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
+using RealCloud.Database.LookupTables;
 
-namespace RealCloud.Data
+namespace RealCloud.Database
 {
     public class PropertyOwnerContext : DbContext
     {

@@ -12,5 +12,5 @@ C:\Projects\PropertyOwner\PropertyOwnerTest\obj\Debug\netcoreapp2.0\PropertyOwne
 C:\Projects\PropertyOwner\PropertyOwnerTest\obj\Debug\netcoreapp2.0\PropertyOwnerTest.AssemblyInfo.cs
 C:\Projects\PropertyOwner\PropertyOwnerTest\obj\Debug\netcoreapp2.0\PropertyOwnerTest.dll
 C:\Projects\PropertyOwner\PropertyOwnerTest\obj\Debug\netcoreapp2.0\PropertyOwnerTest.pdb
-C:\Projects\PropertyOwner\PropertyOwnerTest\bin\Debug\netcoreapp2.0\RealCloud.Data.dll
-C:\Projects\PropertyOwner\PropertyOwnerTest\bin\Debug\netcoreapp2.0\RealCloud.Data.pdb
+C:\Projects\PropertyOwner\PropertyOwnerTest\bin\Debug\netcoreapp2.0\RealCloud.Database.dll
+C:\Projects\PropertyOwner\PropertyOwnerTest\bin\Debug\netcoreapp2.0\RealCloud.Database.pdb

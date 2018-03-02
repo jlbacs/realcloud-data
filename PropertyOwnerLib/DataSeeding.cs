@@ -1,7 +1,8 @@
-﻿using System;
+﻿using RealCloud.Database.LookupTables;
+using System;
 using System.Linq;
 
-namespace RealCloud.Data
+namespace RealCloud.Database
 {
     public class DataSeeding
     {

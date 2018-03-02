@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 using System;
 using System.Collections.Generic;
 
-namespace RealCloud.Data.Migrations
+namespace RealCloud.Database.Migrations
 {
     public partial class ChangeOwnerPK : Migration
     {

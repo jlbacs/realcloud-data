@@ -3402,9 +3402,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\PropertyOwner\\PropertyOwnerLib\\RealCloud.Data.csproj",
-      "projectName": "RealCloud.Data",
-      "projectPath": "C:\\Projects\\PropertyOwner\\PropertyOwnerLib\\RealCloud.Data.csproj",
+      "projectUniqueName": "C:\\Projects\\PropertyOwner\\PropertyOwnerLib\\RealCloud.Database.csproj",
+      "projectName": "RealCloud.Database",
+      "projectPath": "C:\\Projects\\PropertyOwner\\PropertyOwnerLib\\RealCloud.Database.csproj",
       "packagesPath": "C:\\Users\\jlbac\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\PropertyOwner\\PropertyOwnerLib\\obj\\",
       "projectStyle": "PackageReference",

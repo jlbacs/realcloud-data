@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using RealCloud.Data;
+using RealCloud.Database;
 using Microsoft.EntityFrameworkCore;
 
 namespace PropertyOwnerTest

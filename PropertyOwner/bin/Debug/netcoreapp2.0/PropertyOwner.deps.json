@@ -9,7 +9,7 @@
       "PropertyOwner/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "2.0.1",
-          "RealCloud.Data": "1.0.0"
+          "RealCloud.Database": "1.0.0"
         },
         "runtime": {
           "PropertyOwner.dll": {}
@@ -437,14 +437,14 @@
           "System.Runtime": "4.1.0"
         }
       },
-      "RealCloud.Data/1.0.0": {
+      "RealCloud.Database/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.1",
           "Microsoft.EntityFrameworkCore": "2.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.1"
         },
         "runtime": {
-          "RealCloud.Data.dll": {}
+          "RealCloud.Database.dll": {}
         }
       }
     }
@@ -819,7 +819,7 @@
       "path": "system.threading.tasks/4.0.11",
       "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
     },
-    "RealCloud.Data/1.0.0": {
+    "RealCloud.Database/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

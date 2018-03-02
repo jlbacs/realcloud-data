@@ -1,6 +1,7 @@
-﻿using System;
+﻿using RealCloud.Database.LookupTables;
+using System;
 
-namespace RealCloud.Data
+namespace RealCloud.Database
 {
     public class Mortgage
     {

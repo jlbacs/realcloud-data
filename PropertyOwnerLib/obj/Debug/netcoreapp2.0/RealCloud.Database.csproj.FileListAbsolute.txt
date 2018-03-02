@@ -1,0 +1,9 @@
+C:\Projects\PropertyOwner\PropertyOwnerLib\bin\Debug\netcoreapp2.0\RealCloud.Database.deps.json
+C:\Projects\PropertyOwner\PropertyOwnerLib\bin\Debug\netcoreapp2.0\RealCloud.Database.dll
+C:\Projects\PropertyOwner\PropertyOwnerLib\bin\Debug\netcoreapp2.0\RealCloud.Database.pdb
+C:\Projects\PropertyOwner\PropertyOwnerLib\obj\Debug\netcoreapp2.0\RealCloud.Database.csprojResolveAssemblyReference.cache
+C:\Projects\PropertyOwner\PropertyOwnerLib\obj\Debug\netcoreapp2.0\RealCloud.Database.csproj.CoreCompileInputs.cache
+C:\Projects\PropertyOwner\PropertyOwnerLib\obj\Debug\netcoreapp2.0\RealCloud.Database.AssemblyInfoInputs.cache
+C:\Projects\PropertyOwner\PropertyOwnerLib\obj\Debug\netcoreapp2.0\RealCloud.Database.AssemblyInfo.cs
+C:\Projects\PropertyOwner\PropertyOwnerLib\obj\Debug\netcoreapp2.0\RealCloud.Database.dll
+C:\Projects\PropertyOwner\PropertyOwnerLib\obj\Debug\netcoreapp2.0\RealCloud.Database.pdb

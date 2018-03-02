@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertyOwner", "PropertyOwner\PropertyOwner.csproj", "{148BC04B-E74A-49FF-B0D5-5B377511BD8E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RealCloud.Data", "PropertyOwnerLib\RealCloud.Data.csproj", "{6F45B067-0176-498A-BE54-2A853E2E2FB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RealCloud.Database", "PropertyOwnerLib\RealCloud.Database.csproj", "{6F45B067-0176-498A-BE54-2A853E2E2FB7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertyOwnerTest", "PropertyOwnerTest\PropertyOwnerTest.csproj", "{BDE77329-8836-4E11-A164-7BA67276C666}"
 EndProject

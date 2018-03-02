@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace RealCloud.Data
+namespace RealCloud.Database
 {
     public class AddressDetails
     {

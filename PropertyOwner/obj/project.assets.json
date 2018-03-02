@@ -897,7 +897,7 @@
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
       },
-      "RealCloud.Data/1.0.0": {
+      "RealCloud.Database/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
@@ -906,10 +906,10 @@
           "microsoft.entityframeworkcore.tools": "2.0.1"
         },
         "compile": {
-          "bin/placeholder/RealCloud.Data.dll": {}
+          "bin/placeholder/RealCloud.Database.dll": {}
         },
         "runtime": {
-          "bin/placeholder/RealCloud.Data.dll": {}
+          "bin/placeholder/RealCloud.Database.dll": {}
         }
       }
     }
@@ -3398,17 +3398,17 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "RealCloud.Data/1.0.0": {
+    "RealCloud.Database/1.0.0": {
       "type": "project",
-      "path": "../PropertyOwnerLib/RealCloud.Data.csproj",
-      "msbuildProject": "../PropertyOwnerLib/RealCloud.Data.csproj"
+      "path": "../PropertyOwnerLib/RealCloud.Database.csproj",
+      "msbuildProject": "../PropertyOwnerLib/RealCloud.Database.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.EntityFrameworkCore.Design >= 2.0.1",
       "Microsoft.NETCore.App >= 2.0.0",
-      "RealCloud.Data >= 1.0.0"
+      "RealCloud.Database >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3444,8 +3444,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Projects\\PropertyOwner\\PropertyOwnerLib\\RealCloud.Data.csproj": {
-              "projectPath": "C:\\Projects\\PropertyOwner\\PropertyOwnerLib\\RealCloud.Data.csproj"
+            "C:\\Projects\\PropertyOwner\\PropertyOwnerLib\\RealCloud.Database.csproj": {
+              "projectPath": "C:\\Projects\\PropertyOwner\\PropertyOwnerLib\\RealCloud.Database.csproj"
             }
           }
         }

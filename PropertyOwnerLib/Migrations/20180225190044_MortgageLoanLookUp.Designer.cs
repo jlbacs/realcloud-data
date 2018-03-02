@@ -5,10 +5,10 @@ using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage;
 using Microsoft.EntityFrameworkCore.Storage.Internal;
-using RealCloud.Data;
+using RealCloud.Database;
 using System;
 
-namespace RealCloud.Data.Migrations
+namespace RealCloud.Database.Migrations
 {
     [DbContext(typeof(PropertyOwnerContext))]
     [Migration("20180225190044_MortgageLoanLookUp")]

@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PropertyOwnerLib\RealCloud.Data.csproj" />
+    <ProjectReference Include="..\PropertyOwnerLib\RealCloud.Database.csproj" />
   </ItemGroup>
 
 </Project>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace RealCloud.Data
+namespace RealCloud.Database.LookupTables
 {
     public class MortgageDeedType
     {

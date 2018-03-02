@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 
-namespace RealCloud.Data
+namespace RealCloud.Database
 {
     public class PropertyOwnerContextFactory : IDesignTimeDbContextFactory<PropertyOwnerContext>
     {

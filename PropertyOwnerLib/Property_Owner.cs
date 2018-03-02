@@ -1,4 +1,4 @@
-﻿namespace RealCloud.Data
+﻿namespace RealCloud.Database
 {
     public class Property_Owner
     {

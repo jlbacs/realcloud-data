@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using RealCloud.Data;
+using RealCloud.Database;
+using RealCloud.Database.LookupTables;
 
 namespace PropertyOwnerTest
 {
